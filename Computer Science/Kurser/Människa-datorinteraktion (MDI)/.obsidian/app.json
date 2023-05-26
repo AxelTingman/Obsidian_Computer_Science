@@ -1,0 +1,16 @@
+{
+  "legacyEditor": false,
+  "livePreview": false,
+  "defaultViewMode": "preview",
+  "spellcheckLanguages": [
+    "en-GB",
+    "sv"
+  ],
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

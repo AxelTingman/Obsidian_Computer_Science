@@ -1,0 +1,1 @@
+Nyckelord är ord som  har specifika betydelser i ett programmeringsprogram och kan inte användas som namn för [[Variabel|variabler]], [[Klass |klasser]], eller [[Metod|  metoder]].

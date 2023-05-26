@@ -1,0 +1,119 @@
+{
+  "main": {
+    "id": "61038999af21ff8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0e6bb9e03eea258",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Begrepp/Interaktionsartefakt.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6598489c4c645f8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "9aa7502e78d6d5d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1456550b1ab648a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c3c9cc9977d0662d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "utvä",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4087540545502ca2",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a7ff51761954f98",
+        "type": "tabs",
+        "dimension": 72.20843672456576,
+        "children": [
+          {
+            "id": "491aa9c925cf6e83",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "142b938f0bcc5b5e",
+        "type": "tabs",
+        "dimension": 27.791563275434246,
+        "children": [
+          {
+            "id": "b554d8ebde412e08",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Begrepp/Interaktionsartefakt.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 630
+  },
+  "active": "c0e6bb9e03eea258",
+  "lastOpenFiles": [
+    "Begrepp/Interaktionsartefakt.md",
+    "Begrepp/Begränsningar.md",
+    "Begrepp/AUA.md",
+    "Kursdelar/Inlämningsuppgifter/Designprojekt/Designprojekt.md",
+    "Begrepp/7 Stages of action.md",
+    "Personer/Donald Norman.md",
+    "Double Diamond.md",
+    "Begrepp/Designprocessen.md",
+    "Begrepp/Gapen.md",
+    "Utvärdering.md"
+  ]
+}

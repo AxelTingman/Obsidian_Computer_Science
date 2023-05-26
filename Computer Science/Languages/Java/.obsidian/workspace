@@ -1,0 +1,131 @@
+{
+  "main": {
+    "id": "b7623f952cfd53b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "8949d66ab435c4e8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "PROG1/Magiska tal.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dd0fa143044fe8d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d935dccfd436abf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75307c047c3a8c61",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4f68ac141fd2a3ec",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "snap",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 292
+  },
+  "right": {
+    "id": "00cafd09bccdf15f",
+    "type": "split",
+    "children": [
+      {
+        "id": "59fd1152260578d6",
+        "type": "tabs",
+        "dimension": 67.19681908548708,
+        "children": [
+          {
+            "id": "70bc461ab5bf103d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PROG1/Java/Java.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0fbe4c1e414cfa34",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "ffa7987f6bee5c2e",
+        "type": "tabs",
+        "dimension": 32.80318091451292,
+        "children": [
+          {
+            "id": "ebdefc5bcfad2f8b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PROG1/Magiska tal.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 164
+  },
+  "active": "8949d66ab435c4e8",
+  "lastOpenFiles": [
+    "PROG1/Magiska tal.md",
+    "PROG1/Main-metoden.md",
+    "PROG1/Math.md",
+    "CSS.md",
+    "PROG2/JavaFX/Installera Java FX i Eclipse.md",
+    "PROG2/GUI.md",
+    "PROG2/JavaFX/JavaFX.md",
+    "PROG2/Inlämningsuppgift/Buggar.md",
+    "PROG2/Inlämningsuppgift/Inlämningsuppgift.md",
+    "PROG2/Inlämningsuppgift/Inlämningsuppgiften_vt22.pdf"
+  ]
+}

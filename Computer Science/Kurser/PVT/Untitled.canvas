@@ -1,0 +1,6 @@
+{
+	"nodes":[
+		{"id":"b39e4f06ed00c002","x":-125,"y":-200,"width":745,"height":480,"type":"text","text":"# Möte 2023-05-09\n## Gjort\n- Skapar klassen **Vehicle**.\n- **PlateRecognizer** skapar ett **Vehicle**-objeḱt när den läser av en en registreringsskylt.\n- Skapat klasserna **Log** och **LogItem**\n\n## Idag\n- Spara fordonen i en lista och logga händelserna.\n\n## Problem \n- Viktiga delar av API:n är låsta bakom en betalvägg.\n\t- Lösning: Simulera en fordonsdatabas med ett antal utvalda bilar."}
+	],
+	"edges":[]
+}

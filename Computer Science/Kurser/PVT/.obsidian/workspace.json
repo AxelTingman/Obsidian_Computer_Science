@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "95d9dcd0d51141a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "b97ceaf9f3c5a7e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ee8a0b0424f3c69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reliability.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3f33867f433ab25d",
+    "type": "split",
+    "children": [
+      {
+        "id": "55ae6bac0bfd030f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "090d1e7573d4830d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4940739e0430e49f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2c93bf2042c9863c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0f843614b835696f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0f29eb9ea20afba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf8bb98f56ceed61",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Reliability.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0da81a6e83a6bc7e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Reliability.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5a6c11127d1df216",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e899c2d7cdccfe29",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Reliability.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9ee8a0b0424f3c69",
+  "lastOpenFiles": [
+    "Litteratur/Anteckningar från boken.md",
+    "Reliability.md",
+    "Litteratur/Anteckningar från boken (conflicted copy 2023-04-18 090323).md",
+    "Responsiveness.md",
+    "Litteratur/Sommerville, Ian. Engineering Software Products.md",
+    "Föreläsningar/F4/grenar.PNG",
+    "Föreläsningar/F4/Grenar.md",
+    "Föreläsningar/F4/Fillåsning.md",
+    "Föreläsningar/F4/Checkin och checkout.md",
+    "Föreläsningar/F4/Krav.md",
+    "2023-04-06.md",
+    "Föreläsningar/Cloud Software/Cloud.md",
+    "Föreläsningar/HCI Requirements/Lean UX.canvas",
+    "Föreläsningar/Cloud Software/Scalability.md",
+    "Föreläsningar/Cloud Software/Elasticity.md",
+    "Föreläsningar/Cloud Software/Resilience.md",
+    "Föreläsningar/HCI Requirements/Design sprint.md",
+    "Föreläsningar/HCI Requirements/Design Thinking.md",
+    "Föreläsningar/HCI Requirements",
+    "Föreläsningar/Cloud Software",
+    "Föreläsningar/F4/Bygghantering.md",
+    "Föreläsningar/F4/Distribuerade system.md",
+    "Föreläsningar/F4/Ändringshantering.md",
+    "Föreläsningar/F4/Konfigurationshantering.md",
+    "Föreläsningar/F4/Versionshanteringssystem.md",
+    "Föreläsningar/F4/Configuration Item.md",
+    "Föreläsningar/F4/Git.md",
+    "Föreläsningar/F4/Versionhantering.md",
+    "Föreläsningar/F4/Litteraturtips.md",
+    "Kursinformaiton/Kursinformation.md",
+    "Föreläsningar/F4",
+    "Untitled",
+    "Projektarbete/API",
+    "Projektarbete",
+    "Logg",
+    "Kursinformaiton",
+    "Litteratur",
+    "Föreläsningar/F1"
+  ]
+}

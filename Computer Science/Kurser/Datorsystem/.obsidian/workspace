@@ -1,0 +1,105 @@
+{
+  "main": {
+    "id": "83b94a0dc2e5569b",
+    "type": "split",
+    "children": [
+      {
+        "id": "209dd0f7c22ff136",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "32c9e7feb472e8cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "88cc802533d3dd6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bdf44b0117c65e6f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9a1896ee8e18b211",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b1390d54d56572a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed2b3708bb6fac17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "abf712203fa73f66",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "63b117f546318b28",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 454
+  },
+  "active": "209dd0f7c22ff136",
+  "lastOpenFiles": [
+    "Data storage.md",
+    "The Memory Hierarchy.md",
+    "Types of memory.md",
+    "ROM.md",
+    "External fragmentation.md",
+    "Fragmentation.md",
+    "Internal fragmentation.md",
+    "Paging.md",
+    "Segmentation.md",
+    "Virtual memory.md"
+  ]
+}

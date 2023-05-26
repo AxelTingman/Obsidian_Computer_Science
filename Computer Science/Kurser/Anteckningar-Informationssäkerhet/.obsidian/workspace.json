@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "0691a7d5fa8342bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1446c609e2d844f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1491166a2193f351",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informationssäkerhet/Föreläsningar/F4 - Systemteori/Blockdiagram.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6bcc5d6229a1150c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informationssäkerhet/Föreläsningar/F4 - Systemteori/Generell Systemteori.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ea13da49339d6da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informationssäkerhet/Exempeltenta.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aeb398e0f5a27d44",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
+          },
+          {
+            "id": "8157e6e9479ff712",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informationssäkerhet/Föreläsningar/F4 - Systemteori/Tre kontrollprinciper.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "55eaf884e936e4ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "99f25a6f9cfb6981",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "410ad92726ff5638",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f8b6263baf11fa44",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "målsö",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b47b2bb961398342",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 254.5
+  },
+  "right": {
+    "id": "ba010ea7816cdfb6",
+    "type": "split",
+    "children": [
+      {
+        "id": "67839d41b817a116",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34357cb2664f27f1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Informationssäkerhet/Exempeltenta.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c84b42873d48ce19",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Informationssäkerhet/Exempeltenta.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d4c4298178c75809",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "721323f0ecc42ac8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Informationssäkerhet/Exempeltenta.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "aeb398e0f5a27d44",
+  "lastOpenFiles": [
+    "Informationssäkerhet/Föreläsningar/F6 - Semiotik/Konnotation.md",
+    "Informationssäkerhet/Exempeltenta.md",
+    "Informationssäkerhet/Föreläsningar/F4 - Systemteori/Tre kontrollprinciper.md",
+    "Informationssäkerhet/Föreläsningar/F4 - Systemteori/Ekvifinalitet.md",
+    "Informationssäkerhet/Föreläsningar/F4 - Systemteori/Generell Systemteori.md",
+    "Informationssäkerhet/Föreläsningar/F3 - Individprespektivet/Datalagringsdirektivet.md",
+    "Informationssäkerhet/Föreläsningar/F4 - Systemteori/System.md",
+    "Informationssäkerhet/Föreläsningar/F4 - Systemteori/Systemteori.md",
+    "Informationssäkerhet/Föreläsningar/F4 - Systemteori/Miljö.md",
+    "Informationssäkerhet/Föreläsningar/F4 - Systemteori/Blockdiagram.md"
+  ]
+}

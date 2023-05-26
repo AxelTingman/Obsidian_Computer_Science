@@ -1,0 +1,3 @@
+[[Klass]]
+# Anonyma klasser
+***

@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "c0d09590550dfba7",
+    "type": "split",
+    "children": [
+      {
+        "id": "21bc10831e2bd3b9",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c442ddebb9e18ea1",
+    "type": "split",
+    "children": [
+      {
+        "id": "a76c0f506b353eed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7667089d6c1f5ef9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "83e4e81ef1d8b612",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bc0d5ddc4307041a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c751cd5ee776b39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43bd31a25bb2f5c0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "21bc10831e2bd3b9",
+  "lastOpenFiles": [
+    "Aktiviteter/Blockera program.md",
+    "Windows.md",
+    "Task manager.md",
+    "Control panel.md",
+    "Registry editor.md"
+  ]
+}

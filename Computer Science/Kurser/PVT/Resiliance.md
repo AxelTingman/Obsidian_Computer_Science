@@ -1,0 +1,2 @@
+#Kurs/Projektarbete_Med_Progamvaruteknik 
+Goo resiliance means that the [[System|system]] can continue to deliveruser services in the event of partial failure or external attack ([[Ian Sommerville, 2021]]).

@@ -1,0 +1,2 @@
+#Kurs/Projektarbete_Med_Progamvaruteknik 
+*Scrum Master* är den som expert är expert på [[Scrum]] som utvecklingsmetod och vägleder gruppen. Scrum master är inte en konventionell project manager utan bör snarare btraktas som en coach. Det är dock vanligt att Scrum master har båda rollerna ([[Ian Sommerville, 2021]], s. 38).

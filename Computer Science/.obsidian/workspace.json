@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "904d832fad1e5eb1",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0a409b5515615af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46150ee5abb316ec",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "41933c99e6bbda0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kurser/Databasmetodik/Mängdoperatorer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fcf4c51549f42ce7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kurser/Databasmetodik/Relationsalgebra/Exempel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e2e4657cd3e9d9ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "5420227c94124d88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43bbcc9caec0ea68",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1b1196ed6efae0f0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Kurs/Databasmetodik",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5a9781984b84e118",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "ad3df80df75a61b7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "014f1152cd76efdd",
+    "type": "split",
+    "children": [
+      {
+        "id": "30cd00bfceb0684e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75d87d5a0f8bf454",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Kurser/Databasmetodik/Relationsalgebra/Exempel.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ce0b0ae96fabeac6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Kurser/Databasmetodik/Relationsalgebra/Exempel.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6de380ca9e48280e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1e9df6122d931575",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Kurser/Databasmetodik/Relationsalgebra/Exempel.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 279.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "simple-note-quiz:Quiz you note": false
+    }
+  },
+  "active": "fcf4c51549f42ce7",
+  "lastOpenFiles": [
+    "Kurser/Databasmetodik/Relationsalgebra/Kryssprodukt.md",
+    "Kurser/Databasmetodik/Relationsalgebra/Exempel.md",
+    "Kurser/Databasmetodik/Relationsalgebra/Selektion.md",
+    "Kurser/Databasmetodik/Relationsalgebra/Projektion.md",
+    "Kurser/Databasmetodik/Relationsalgebra/Primitiva operationer.md",
+    "Kurser/Databasmetodik/Relationsalgebra/Naturlig join.md",
+    "Kurser/Databasmetodik/Relationsalgebra/Gruppfunktion (aggregering).md",
+    "Kurser/Databasmetodik/Relationsalgebra/Ekvi-join.md",
+    "Kurser/Databasmetodik/Relationsalgebra/Relationsalgebra.md",
+    "Kurser/Databasmetodik/Relationsalgebra/Division (kvot).md",
+    "Kurser/Databasmetodik/Databasmetodik Quiz.md",
+    "Kurser/Databasmetodik/Gruppering.md",
+    "Kurser/Databasmetodik/Reifirering.md",
+    "Kurser/Databasmetodik/Attribut.md",
+    "Kurser/Databasmetodik/Association.md",
+    "Kurser/Databasmetodik/Nyckel.md",
+    "Kurser/Databasmetodik/Föreläsningar/F2/Surrogatnycklar.md",
+    "Kurser/Databasmetodik/Mängdoperatorer.md",
+    "Kurser/Databasmetodik/Alternativ till relationsmodellen/Key-value store.md",
+    "Kurser/Databasmetodik/Kandidatnyckel.md",
+    "Kurser/Datorsystem/Control of I/Control of IO.md",
+    "Kurser/Databasmetodik/SQL - OUTER JOIN.md",
+    "Kurser/Databasmetodik/Dynamiska källor.md",
+    "Git/Git/Uppdatera projekt.md",
+    "Languages/Java/PROG2/SWT.md",
+    "Linux/Linux/Terminal/Change file ownership.md",
+    "Kurser/Logik för datavetare/Logik-Anteckningar/differens.png",
+    "Kurser/Databasmetodik/SQL Tutor/DatabaseSchema.bmp",
+    "Kurser/Databasmetodik/Föreläsningar/F4",
+    "Kurser/Databasmetodik/Föreläsningar/F2/främmande_nyckel.png",
+    "Kurser/Databasmetodik/Föreläsningar/F2/främmande_nyckel_felexempel.png",
+    "Kurser/Databasmetodik/Föreläsningar/F2/främmande_nyckel_syntax.png",
+    "Kurser/Databasmetodik/Föreläsningar/F2/Pasted image 20230520223713.png",
+    "Kurser/Databasmetodik/Föreläsningar/F3",
+    "Kurser/Databasmetodik/Föreläsningar/Föreläsning 2",
+    "Kurser/Databasmetodik/Relationsalgebra",
+    "Kurser/Databasmetodik/Alternativ till relationsmodellen/hadoop_ekosystem.png",
+    "Kurser/Databasmetodik/Alternativ till relationsmodellen/prediktiv_modellering.png",
+    "Kurser/PVT/Untitled.canvas",
+    "Kurser/Databasmetodik/Alternativ till relationsmodellen",
+    "Firebase",
+    "Kurser/PVT/Projektarbete/API/Untitled 1",
+    "Kurser/PVT/Projektarbete/API/Plate Recogniser",
+    "Kurser/PVT/Seminarium",
+    "Kurser/Datorsystem/Föreläsningar/F5/F5-VT2022_v2.pdf",
+    "Kurser/Datorsystem/Föreläsningar/F4/f4_multipoint_bus.PNG",
+    "Kurser/Datorsystem/Föreläsningar/F4/f4_fetch.PNG",
+    "Untitled.canvas",
+    "Kurser/PVT/Föreläsningar/HCI Requirements/Lean UX.canvas"
+  ]
+}

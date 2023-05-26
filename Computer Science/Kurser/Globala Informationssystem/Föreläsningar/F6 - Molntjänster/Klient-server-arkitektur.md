@@ -1,0 +1,1 @@
+#Kurs/Globala_Informationssystem #Kurs/Globala_Informationssystem/Föreläsning/6 

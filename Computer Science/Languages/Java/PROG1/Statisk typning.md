@@ -1,0 +1,1 @@
+Innebär att [[Variabel| variabelns datatyp]] inte kan ändras av sig själv under programkörning.

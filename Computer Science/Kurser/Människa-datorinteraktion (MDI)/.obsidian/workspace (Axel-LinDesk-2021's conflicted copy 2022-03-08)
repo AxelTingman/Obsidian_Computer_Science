@@ -1,0 +1,118 @@
+{
+  "main": {
+    "id": "61038999af21ff8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0e6bb9e03eea258",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Seminarie 2.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6598489c4c645f8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "9aa7502e78d6d5d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1456550b1ab648a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c3c9cc9977d0662d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "wiza",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4087540545502ca2",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a7ff51761954f98",
+        "type": "tabs",
+        "dimension": 50.132625994694955,
+        "children": [
+          {
+            "id": "491aa9c925cf6e83",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "142b938f0bcc5b5e",
+        "type": "tabs",
+        "dimension": 49.86737400530504,
+        "children": [
+          {
+            "id": "b554d8ebde412e08",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Seminarie 2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 731
+  },
+  "active": "c0e6bb9e03eea258",
+  "lastOpenFiles": [
+    "Seminarie 2.md",
+    "Begrepp/AUA.md",
+    "Begrepp/Människors egenskaper.md",
+    "Begrepp/Krav.md",
+    "Begrepp/Interaktion.md",
+    "Teorier/MDI.md",
+    "Begrepp/Kunskap i världen och i huvudet.md",
+    "Begrepp/Begränsningar.md",
+    "Kursdelar/Seminarium/Seminarium 1/Seminarie 1.md",
+    "Kursdelar/Intervjuteknik.md"
+  ]
+}

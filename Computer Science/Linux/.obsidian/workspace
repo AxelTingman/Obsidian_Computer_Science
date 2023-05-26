@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "f82ab92ca2abba1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ca1e68c6144d2bd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Package manager/Pacman/Pacman.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "084a93a20330709d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5369c332b0b33f50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fdb74f030921e5ba",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "fbcfb1f4ddad7fe1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "95ad4aa0b5a618b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "945de089ec0bb564",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7e414320f1a7053",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Package manager/Pacman/Pacman.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6ca1e68c6144d2bd",
+  "lastOpenFiles": [
+    "Package manager/Pacman/Pacman.md",
+    "Package manager/Package manager.md",
+    "Arch Linux/Arch Linux Installation.md",
+    "Window Manager/i3/Autostart applications.md",
+    "Window Manager/Untitled.md",
+    "Linux/Terminal/Add new user.md",
+    "Linux/Screenshot from 2022-03-13 13-00-30.png",
+    "Linux/Capture.PNG",
+    "Delete directory.md",
+    "Linux/Terminal/Basic.md"
+  ]
+}

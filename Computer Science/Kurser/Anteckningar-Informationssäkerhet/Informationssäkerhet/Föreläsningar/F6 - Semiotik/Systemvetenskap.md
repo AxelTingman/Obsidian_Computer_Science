@@ -1,0 +1,4 @@
+#Kurs/Informationssäkerhet 
+Systemvetenskap (eng. information systems) är den tvärvetenskapliga studien av [[System|informationssystem]] inklusive människor och verksamhetsprocesser, i synnerhet affärssystem och andra administrativa system. Ämnet och utbildningsområdet är nära besläktat med ämnet informatik, och åsyftar ett möte mellan datavetenskap och samhällsvetenskaperna (Wikipedia)
+
+Systems science is an interdisciplinary field that studies the nature of systems—from simple to complex—in nature, society, cognition, and science itself. The field aims to develop interdisciplinary foundations that are applicable in a variety of areas, such as psychology, biology, medicine, communication, business management, engineering, and social sciences (Wikipedia)

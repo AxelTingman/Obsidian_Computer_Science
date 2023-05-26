@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"0644053051af047a","x":-680,"y":-520,"width":1240,"height":840,"type":"group","label":"Lean UX"},
+		{"id":"342ba90068873111","x":-560,"y":40,"width":240,"height":160,"type":"text","text":"## Check\n- A/B testing\n- Usability testing"},
+		{"id":"05be4b9d442d4d63","x":-220,"y":-420,"width":340,"height":220,"type":"text","text":"## Think\n- Generative research\n- Ideation\n- Mental models\n- Behavour models\n- Competative analysis"},
+		{"id":"f39e026947f86191","x":160,"y":25,"width":300,"height":190,"type":"text","text":"## Make\n- Prototypes\n- Wireframe\n- Value proposition"}
+	],
+	"edges":[
+		{"id":"470a70ddd7992fb9","fromNode":"05be4b9d442d4d63","fromSide":"right","toNode":"f39e026947f86191","toSide":"top"},
+		{"id":"93afa8f3a4be7a67","fromNode":"f39e026947f86191","fromSide":"left","toNode":"342ba90068873111","toSide":"right"},
+		{"id":"c5bf361f8accc76e","fromNode":"342ba90068873111","fromSide":"top","toNode":"05be4b9d442d4d63","toSide":"left"}
+	]
+}

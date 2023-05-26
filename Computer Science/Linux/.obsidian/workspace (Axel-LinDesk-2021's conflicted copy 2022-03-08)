@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "f82ab92ca2abba1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ca1e68c6144d2bd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Arch Linux/Arch Linux Installation.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "084a93a20330709d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5369c332b0b33f50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fdb74f030921e5ba",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "fbcfb1f4ddad7fe1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "95ad4aa0b5a618b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "945de089ec0bb564",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7e414320f1a7053",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Arch Linux/Arch Linux Installation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6ca1e68c6144d2bd",
+  "lastOpenFiles": [
+    "Arch Linux/Arch Linux Installation.md",
+    "Applications/Minecraft/Minecraft server.md",
+    "Linux/Capture.PNG",
+    "Linux/Super User (sudo).md",
+    "Linux/tar.gz.md",
+    "Applications/VirtualBox/Virtualbox portforwarding.md",
+    "Linux/Linux.md",
+    "Package manager/APT/Uninstall package.md",
+    "Package manager/Flatpak/flatpak.md",
+    "Applications/Applications.md"
+  ]
+}

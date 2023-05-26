@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "f82ab92ca2abba1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "acd38fdba5a472c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ca1e68c6144d2bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Distros/Arch based/Arch.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "27feaf1f21aa101a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Distros/Arch based/AUR helper.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "517f7d93f0087cf3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Package manager/Pacman/Pacman.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "69317dccd3fa081d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Applications/DebTap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "271c20d4475ce901",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/tar.gz.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e091fb929f09dddd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Server/Se IP-nummer.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "04e45456abccc0dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Protonmail/Nameservers & records 2023-02-15.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "084a93a20330709d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5369c332b0b33f50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fdb74f030921e5ba",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fbcfb1f4ddad7fe1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tar.",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "95ad4aa0b5a618b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "945de089ec0bb564",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7e414320f1a7053",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Protonmail/Nameservers & records 2023-02-15.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "04e45456abccc0dc",
+  "lastOpenFiles": [
+    "Server/Se IP-nummer.md",
+    "Server/Firewall.md",
+    "Server/Apache2.md",
+    "Delete directory.md",
+    "Package manager/Pacman/Pacman.md",
+    "Package manager/Package manager.md",
+    "Kolla IP-adressen.md",
+    "Linux/tar.gz.md",
+    "Applications/Teams For Linux.md",
+    "Applications/DebTap.md"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:JavaFX",
+      "color": {
+        "a": 1,
+        "rgb": 6284250
+      }
+    },
+    {
+      "query": "path:Historia",
+      "color": {
+        "a": 1,
+        "rgb": 11834192
+      }
+    },
+    {
+      "query": "path:PROG2",
+      "color": {
+        "a": 1,
+        "rgb": 6071295
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -2.1,
+  "nodeSizeMultiplier": 1.56581196581197,
+  "lineSizeMultiplier": 2.52905982905983,
+  "collapse-forces": true,
+  "centerStrength": 0.739583333333333,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.19987428632864593,
+  "close": true
+}

@@ -1,0 +1,3 @@
+#Kurs/Globala_Informationssystem #Kurs/Globala_Informationssystem/Föreläsning/7 
+
+“Industry 4.0 describes the trend towards automation and data exchange in manufacturing technologies and processes which include [[cyber-physical systems (CPS)]], the internet of things (IoT), industrial internet of things (IIOT), [[Molntjänster (Cloud)|cloud computing]], [[Artificiell intelligens (AI)|cognitive computing and artificial intelligence]].” (Wikipedia, October 2019).

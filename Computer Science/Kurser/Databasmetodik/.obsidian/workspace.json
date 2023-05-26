@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "f3f7bbcff5f8243d",
+    "type": "split",
+    "children": [
+      {
+        "id": "74a5d69e261f0d15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5cf310012a926ed5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "0fe2f91672cdab60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL Tutor/Övningar.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "af0889dcb4ccd24f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d223304d2ef106ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72cfd959c7a31818",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cf92b53a6211c30c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "unio",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 259.0107650756836
+  },
+  "right": {
+    "id": "1d2aa3b89807006f",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb6522468e1529f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae86113306c1083a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SQL Tutor/Övningar.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "0fe2f91672cdab60",
+  "lastOpenFiles": [
+    "SQL Tutor/DatabaseSchema.bmp",
+    "SQL Tutor/Övningar.md",
+    "Bilder/group-by.PNG",
+    "Bilder/insert.PNG",
+    "Bilder/nästlade-frågor.PNG",
+    "Bilder/ö3b.png",
+    "Bilder/ö3a.png",
+    "DIVISION.md",
+    "Gruppering.md",
+    "Lektioner/Lektion 4.md",
+    "Lektioner/Lektion 5.md",
+    "Övningar/Övning 3.md",
+    "Surrogatnycklar.md",
+    "UPDATE.md",
+    "VIEW.md",
+    "NULL-värde.md",
+    "Nycklar.md",
+    "Lektioner/Lektion 3.md",
+    "SQL Tutor",
+    "Rekursiv association.md",
+    "Relationer.md",
+    "Relationsmodellen.md",
+    "Mängdoperatorer.md",
+    "Aggregeringsfunktioner.md"
+  ]
+}

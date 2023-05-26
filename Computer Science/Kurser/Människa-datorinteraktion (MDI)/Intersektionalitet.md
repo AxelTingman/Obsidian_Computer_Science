@@ -1,0 +1,3 @@
+#Kurs/Människa-datorinteraktion 
+"Man vill med ett intersektionellt perspektiv blottlägga och analysera relationen mellan makt, ojämlikhet och sociala identitetskategorier som ålder, klass, funktionalitet, etnicitet, kön och sexualitet samt hur dessa samspelar. Dessa kategorier kan alltså inte separeras eller förstås som isolerade, utan skapar gemensamt socialt konstruerade förtryck som kan te sig olika i olika situationer."
+- Institutet för språk och folkminnen

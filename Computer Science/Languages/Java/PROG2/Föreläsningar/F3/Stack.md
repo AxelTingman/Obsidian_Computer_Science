@@ -1,0 +1,1 @@
+En samling där det element som senast lades till är det första som kommer att tas bort bort enligt *Sist-in-först-ut*-principen.

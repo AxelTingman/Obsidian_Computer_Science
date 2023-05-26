@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "f3f7bbcff5f8243d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5cf310012a926ed5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Lektioner/Lektion 3.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "af0889dcb4ccd24f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d223304d2ef106ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72cfd959c7a31818",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cf92b53a6211c30c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 259.0107650756836
+  },
+  "right": {
+    "id": "1d2aa3b89807006f",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb6522468e1529f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae86113306c1083a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lektioner/Lektion 3.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5cf310012a926ed5",
+  "lastOpenFiles": [
+    "Lektioner/Lektion 3.md",
+    "Gruppuppgifter/Gruppuppgift 1.md",
+    "Övningar/Övning 3.md",
+    "SQL.md",
+    "Supernyckel.md",
+    "Kursdokument/ATT GÖRA.md",
+    "DDL.md",
+    "Bilder/ö3a.png",
+    "Kandidatnyckel.md",
+    "Främmande nycklar.md"
+  ]
+}

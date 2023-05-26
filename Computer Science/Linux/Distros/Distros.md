@@ -1,0 +1,5 @@
+# Distros
+[[Debian]]
+[[Manjaro]]
+[[Arch]]
+

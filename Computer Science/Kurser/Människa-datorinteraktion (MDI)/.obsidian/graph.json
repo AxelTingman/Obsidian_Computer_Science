@@ -1,0 +1,58 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:Kursdelar",
+      "color": {
+        "a": 1,
+        "rgb": 6452407
+      }
+    },
+    {
+      "query": "path:Begrepp",
+      "color": {
+        "a": 1,
+        "rgb": 16020993
+      }
+    },
+    {
+      "query": "path:Personer",
+      "color": {
+        "a": 1,
+        "rgb": 14521045
+      }
+    },
+    {
+      "query": "path:Teorier",
+      "color": {
+        "a": 1,
+        "rgb": 6750164
+      }
+    },
+    {
+      "query": "path:Böcker",
+      "color": {
+        "a": 1,
+        "rgb": 9791741
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -1.3,
+  "nodeSizeMultiplier": 0.895726495726496,
+  "lineSizeMultiplier": 1.94273504273504,
+  "collapse-forces": true,
+  "centerStrength": 0.846153846153846,
+  "repelStrength": 16.4102564102564,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.4356402435870616,
+  "close": true
+}

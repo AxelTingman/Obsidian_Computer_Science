@@ -1,0 +1,5 @@
+#Kurs/Databasmetodik 
+
+
+
+![[ddl.PNG]]

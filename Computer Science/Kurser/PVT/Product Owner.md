@@ -1,0 +1,2 @@
+#Kurs/Projektarbete_Med_Progamvaruteknik 
+I [[Scrum]] är *Product Owner* den som ansvarar för att utvecklarna alltid fokuserar på slutprodukten snarare än tekniskt intressanta detaljer. Denna roll antas av den som normalt är product manager ([[Ian Sommerville, 2021]], s. 38).
